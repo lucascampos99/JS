@@ -202,3 +202,27 @@ constructor(
     correr():void{
     }
 }*/
+
+
+
+//EXERCICIO DE COLLECTIONS
+
+/*let estoque: string[] = []
+
+estoque.push("Ferramentas", "Mesas", "Caixas", "Pregos", "Lampadas")
+console.log(estoque);
+
+estoque.pop();
+console.log(estoque)
+
+estoque.splice(2,1, "Sofa")
+console.log(estoque);*/
+
+
+
+
+//EXERCICIO ARROW FUNCTION
+
+/*let imc = (peso: number, altura: number) => peso / (altura * altura);
+
+console.log(imc(70, 1.70).toFixed(1));*/
